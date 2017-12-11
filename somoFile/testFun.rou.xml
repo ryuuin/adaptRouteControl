@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vType id="typeA" accel="0.8" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="16.67" guiShape="passenger"/>
+    <vType id="typeB" accel="0.8" decel="4.5" sigma="0.5" length="7" minGap="3" maxSpeed="25" guiShape="bus"/>
+    <route id="route0" edges="04_14"/>
+    <vehicle id="E3_0" type="typeA" route="route0" depart="0" />
+<routes/>
